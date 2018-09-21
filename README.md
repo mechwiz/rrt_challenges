@@ -28,5 +28,6 @@ A tree created from _Point A_ to _point B_ is shown below. The path found that n
 ![n_rrt.png](imgs/n_rrt.png)
 
 ## Implementation
-Simple clone the package and run in an ipython shell ``%run rrt_challenges.py``
+Simple clone the package and run in an ipython shell ``%run rrt_challenges.py``.
+
 All 3 challenges are run consecutively so in order to run the next challenge, close the figure that pops up after each challenge.
